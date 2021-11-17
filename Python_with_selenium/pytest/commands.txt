@@ -1,0 +1,4 @@
+>pytest
+>pytest -v -s
+>pytest -v -s test_TestDemo.py
+>pytest -v -s test_TestDemo.py::test_specificTestMethodToRun
